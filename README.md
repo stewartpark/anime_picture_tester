@@ -2,9 +2,9 @@ Anime picture tester
 ====================
 
 This program tests if a picture is a real photo or from anime based on neural network techniques.
+The main idea of this program is that anime pictures and real photos differ in their color range.
 
-in our given data set, it showed 95%+ accuarcy.
-
+In our given data set, it showed 95%+ accuracy.
 
     $ pip install numpy neurolab PIL
     $ python main.py
